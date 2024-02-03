@@ -1,4 +1,5 @@
 # Baby Name Genaritor
 
 - Developer: Abolfazl Mollashahi
-- Show in https://baby-name-genaritor.netlify.app
+- Development Tools : Nuxt.js & Tailwindcss
+- Show in :  https://baby-name-genaritor.netlify.app
